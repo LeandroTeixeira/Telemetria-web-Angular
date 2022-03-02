@@ -1,27 +1,39 @@
-# Telemetria
+<h1 align="center">Welcome to Telemetria Web Fórmula UFMG - 2019 👋</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
+</p>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.2.
+> Projeto referente à versão web da Telemetria do Fórmula UFMG conforme desenvolvido para a competição de 2019. O objetivo primário do projeto era criar uma interface web que recebesse os dados da Telemetria (então um software desenvolvido em Python) e disponibilizasse de forma acessível para todos os membros da equipe durante os testes e a competição.
 
-## Development server
+## Install
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+```sh
+npm install
+```
 
-## Code scaffolding
+## Usage
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+```sh
+ng serve
+```
 
-## Build
+## Run tests
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+```sh
+npm run test
+```
 
-## Running unit tests
+## Author
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+👤 **Leandro Luiz Duarte Teixeira**
 
-## Running end-to-end tests
+* Website: leandroteixeira.github.io
+* Github: [@LeandroTeixeira](https://github.com/LeandroTeixeira)
+* LinkedIn: [@leandro-teixeira-1a44521a7](https://linkedin.com/in/leandro-teixeira-1a44521a7)
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+## Show your support
 
-## Further help
+Give a ⭐️ if this project helped you!
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+***
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
